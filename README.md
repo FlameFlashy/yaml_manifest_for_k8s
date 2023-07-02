@@ -1,6 +1,6 @@
 # yaml_manifest_for_k8s
 
-# Manifest Portfolio
+# Manifest Yaml files for k8s
 -
 | NAME | PROMPT | DESCRIPTION | EXAMPLE |
 | --- | --- | --- | --- |
