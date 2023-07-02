@@ -1,0 +1,1 @@
+# yaml_manifest_for_k8s
